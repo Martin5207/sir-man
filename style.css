@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+
+}
+h1{
+    text-decoration-color: brown;
+}
+p{
+    width: 100px; ;
+}
+
+html{
+    background-image: -webkit-repeating-radial-gradient();
+}
+a{
+    color: black;
+   size: 100px;
+}
